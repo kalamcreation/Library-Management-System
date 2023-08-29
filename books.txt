@@ -1,0 +1,10 @@
+Bangla;Humyun Ahmed;200;499.00
+English;Raju Ahmed;120;340.00
+To Kill a Mockingbird;Harper Lee;320;920.00
+Animal Farm;George Orwell;425;650.00
+The Hobbit;J.R.R Tolkien;211;350.00
+A Golden Age;Tahmima Anam;125;366.00
+The Sea;Akhtaruzzaman Elias;315;850.00
+The Girlhood;Jahanara Imam;123;325.00
+Kobi;Al Mahmud;65;214.00
+Brihonnola;Humayun Ahmed;256;599.00
